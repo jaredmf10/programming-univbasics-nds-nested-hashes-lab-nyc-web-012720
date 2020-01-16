@@ -31,8 +31,7 @@ def literal_aoh
 end
 
 def aoh_lookup(aoh, row, key)
-  requested_value = aoh(row, key)
-  return requested_value
+  
 end
 
 
